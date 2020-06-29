@@ -43,5 +43,5 @@ echo " Multi Login = kill "
 echo " Cara pakai : kill [nombor PID] "
 echo "------------------------------------------------"
 
-echo " By DAENG SSH"
+echo " By PHREAKER SULAWESI"
 echo "";
