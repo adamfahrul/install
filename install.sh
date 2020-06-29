@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Original script by fornesia, rzengineer and fawzya 
-# Mod by DAENG SERVER
+# Mod by Phreaker Sulawesi
 # 
 # ==================================================
 
@@ -16,9 +16,9 @@ country=ID
 state=Indonesia
 locality=Indonesia
 organization=Daeng Server Group
-organizationalunit=www.daengserver.xyz
-commonname=www.daengserver.xyz
-email=support@daengserver.xyz
+organizationalunit=www.ps-ssh.site
+commonname=www.ps-ssh.site
+email=support@ps.site
 
 # go to root
 cd
