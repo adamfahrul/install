@@ -2,4 +2,4 @@
 
 clear
 neofetch
-echo -e "by DAENG SERVER"
+echo -e "by PHREAKER SULAWESI"
